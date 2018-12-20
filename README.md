@@ -106,7 +106,7 @@ DeepDive是
 - [CCKS 2017 问题命名实体识别和链接任务](https://www.biendata.com/competition/CCKS2017_1/)
 - [CCKS 2017 面向电子病历的命名实体识别](https://www.biendata.com/competition/CCKS2017_2/)
 
-### 会议交流
+## 会议交流
 - [AICon 2018知识图谱深度培训](https://aicon2018.geekbang.org/training/1315)
 
 ## 项目案例
