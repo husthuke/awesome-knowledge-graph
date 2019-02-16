@@ -75,7 +75,7 @@ DeepDive是
 - 王昊奋:
 
 
-## 视频课程
+## 视频课程及讲座
 
 ### 小象学院知识图谱课程
 
@@ -89,7 +89,9 @@ DeepDive是
 - [知识图谱系统架构剖析](https://edu.csdn.net/course/detail/10286)
 - [AI开发者大会——知识图谱专题](https://edu.csdn.net/course/detail/10284)
 
-
+### 其他
+- [知识图谱中的深度学习技术应用概述](https://v.qq.com/x/page/i0700c29hw1.html)
+- [2018云栖大会上海-人工智能专场](https://yunqi.youku.com/2018/shanghai/review?spm=a2c4e.11165380.1076033.1)
 
 ## 专栏合集
 
@@ -107,6 +109,7 @@ DeepDive是
 - [CCKS 2017 面向电子病历的命名实体识别](https://www.biendata.com/competition/CCKS2017_2/)
 
 ## 会议交流
+- [AICon 2017知识图谱技术实践](https://aicon2017.geekbang.org/training/1)
 - [AICon 2018知识图谱深度培训](https://aicon2018.geekbang.org/training/1315)
 
 ## 项目案例
@@ -117,3 +120,9 @@ DeepDive是
 
 
 ### 知识工程领域知识图谱
+
+### 教育领域知识图谱
+
+### 金融领域知识图谱
+
+### 医疗领域知识图谱
