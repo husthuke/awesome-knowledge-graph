@@ -29,7 +29,31 @@
 - [官网地址](http://openkg.cn/)
 
 
-#### 领域知识图谱
+### 领域知识图谱
+#### 学术知识图谱AceKG
+
+最新发布的Acemap知识图谱（AceKG）描述了超过1亿个学术实体、22亿条三元组信息，涵盖了全面的学术信息。具体而言，AceKG包含了61,704,089篇paper、52,498,428位学者、50,233个研究领域、19,843个学术研究机构、22,744个学术期刊、1,278个学术会议以及3个学术联盟（如C9联盟）。
+
+同时，AceKG也为每个实体提供了丰富的属性信息，在网络拓扑结构的基础上加上语义信息，旨在为众多学术大数据挖掘项目提供全面支持。
+
+- [访问地址(http://acemap.sjtu.edu.cn/)](http://acemap.sjtu.edu.cn/)
+
+### 数据集
+
+#### SQuAD
+
+
+- [https://rajpurkar.github.io/SQuAD-explorer/](https://rajpurkar.github.io/SQuAD-explorer/)
+
+#### YAGO
+YAGO是由德国马普研究所研制的链接数据库。YAGO主要集成了Wikipedia、WordNet和GeoNames三个来源的数据。YAGO将WordNet的词汇定义与Wikipedia的分类体系进行了融合集成，使得YAGO具有更加丰富的实体分类体系。YAGO还考虑了时间和空间知识，为很多知识条目增加了时间和空间维度的属性描述。目前，YAGO包含1.2亿条三元组知识。YAGO是IBM Watson的后端知识库之一。由于完成的YAGO数据集过于庞大，在使用过程中经常会选取其中一部分进行，比如可以抽取中带有时间注释（time annotations）的部分形成YAGO11k数据集。
+
+- [完整数据集下载地址](https://www.mpi-inf.mpg.de/departments/databases-and-information-systems/research/yago-naga/yago/downloads/)
+
+#### WikiData
+WikiData的目标是构建一个免费开放、多语言、任何人或机器都可以编辑修改的大规模链接知识库。WikiData由维基百科于2012年启动，早期得到微软联合创始人Paul Allen、Gordon Betty Moore基金会以及Google的联合资助。WikiData继承了Wikipedia的众包协作的机制，但与Wikipedia不同，WikiData支持的是以三元组为基础的知识条目（Items）的自由编辑。一个三元组代表一个关于该条目的陈述（Statements）。
+
+- [WikiData中文部分-截至2017.01](http://openkg.cn/dataset/http-pan-baidu-com-s-1c2ovnks)
 
 
 ## 工具
@@ -121,6 +145,7 @@ DeepDive是
 
 ### 农业领域知识图谱
 
+- https://github.com/CrisJk/Agriculture-KnowledgeGraph-Data.git
 
 ### 佛学知识图谱
 
