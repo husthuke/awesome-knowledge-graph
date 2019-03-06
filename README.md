@@ -19,6 +19,7 @@
 ## 理论及论文
 - [知识图谱构建技术综述](./paper/知识图谱构建技术综述_刘峤.caj)
 - [知识图谱研究进展](./paper/知识图谱研究进展_漆桂林.caj)
+- [医学知识图谱构建技术与研究进展](./paper/医学知识图谱构建技术与研究进展_袁凯琦.caj)
 
 ## 图谱及数据集
 ### 开放知识图谱
@@ -55,6 +56,12 @@ WikiData的目标是构建一个免费开放、多语言、任何人或机器都
 
 - [WikiData中文部分-截至2017.01](http://openkg.cn/dataset/http-pan-baidu-com-s-1c2ovnks)
 
+
+#### NLPCC 2017 KBQA
+
+该任务来自NLPCC 2017评测任务，开放域问答评价任务主要包括三项子任务，基于知识库的问答（kbqa），基于文档的问答（dbqa），和基于表的问答（tbqa）。kbqa的任务是基于知识库的中文问题回答。dbqa的任务是通过选择一个或多个句子从一个给定的文档，作为答案回答中文问题。tbqa的任务是一个全新的QA任务，旨在通过从收集的表格中抽取一个或多个表回答英语问题。
+
+[下载链接](https://biendata.com/ccf_tcci2018/datasets/tcci_tag/11)
 
 ## 工具
 根据知识图谱的通用基本构建流程为依据，每个阶段都整理部分工具。
@@ -99,7 +106,7 @@ DeepDive是
 - 王昊奋:
 
 
-## 视频课程及讲座
+## 视频课程
 
 ### 小象学院知识图谱课程
 
@@ -113,9 +120,9 @@ DeepDive是
 - [知识图谱系统架构剖析](https://edu.csdn.net/course/detail/10286)
 - [AI开发者大会——知识图谱专题](https://edu.csdn.net/course/detail/10284)
 
-### 其他
-- [知识图谱中的深度学习技术应用概述](https://v.qq.com/x/page/i0700c29hw1.html)
-- [2018云栖大会上海-人工智能专场](https://yunqi.youku.com/2018/shanghai/review?spm=a2c4e.11165380.1076033.1)
+## 会议及讲座
+
+
 
 ## 专栏合集
 
@@ -133,8 +140,28 @@ DeepDive是
 - [CCKS 2017 面向电子病历的命名实体识别](https://www.biendata.com/competition/CCKS2017_2/)
 
 ## 会议交流
+### AICon
 - [AICon 2017知识图谱技术实践](https://aicon2017.geekbang.org/training/1)
 - [AICon 2018知识图谱深度培训](https://aicon2018.geekbang.org/training/1315)
+
+### BDTC
+- [BDTC 2018 医疗知识图谱的构建和应用](./conference/医疗知识图谱的构建和应用.pdf)
+- [BDTC 2018 从知识图谱到人工智能：产品演进路径上的思考](./conference/从知识图谱到人工智能-产品演进路径上的思考.pdf)
+- [BDTC 2018 基于cnSchema的大规模金融知识图谱实战](./conference/基于cnSchema的大规模金融知识图谱实战.pdf)
+- [BDTC 2017 Event Extraction from Texts](./conference/Event Extraction from Texts.pdf)
+- [BDTC 2017 知性会话：基于知识图谱的人机对话系统方法与实践](./conference/知性会话-基于知识图谱的人机对话系统方法与实践.pdf)
+- [BDTC 2017 基于图的海量知识图谱数据管理](./conference/基于图的海量知识图谱数据管理.pdf)
+- [CSDN AI 2018 医疗知识图谱的敏捷构建和实践](./conference/医疗知识图谱的敏捷构建和实践.pdf)
+- [CSDN AI 2018 知识图谱的表示和推理](./conference/知识图谱的表示和推理.pdf)
+- [CSDN AI 2018 大规模通用知识图谱构建及应用](./conference/大规模通用知识图谱构建及应用.pdf)
+- [CSDN AI 2018 大规模通用知识图谱构建及应用](./conference/大规模通用知识图谱构建及应用.pdf)
+
+
+
+
+### 其他
+- [知识图谱中的深度学习技术应用概述](https://v.qq.com/x/page/i0700c29hw1.html)
+- [2018云栖大会上海-人工智能专场](https://yunqi.youku.com/2018/shanghai/review?spm=a2c4e.11165380.1076033.1)
 
 ## 项目案例
 ### 教育领域知识图谱
