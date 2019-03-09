@@ -168,10 +168,14 @@ DeepDive是
 
 ### 金融领域知识图谱
 
+#### 利用网络上公开的数据构建一个小型的证券知识图谱/知识库
+- https://github.com/lemonhu/stock-knowledge-graph.git
+
 ### 医疗领域知识图谱
 
 ### 农业领域知识图谱
 
+#### 使用爬虫获取Wikidata数据构建
 - https://github.com/CrisJk/Agriculture-KnowledgeGraph-Data.git
 
 ### 佛学知识图谱
