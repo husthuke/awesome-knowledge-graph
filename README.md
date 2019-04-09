@@ -25,7 +25,8 @@
 
 ### 动态或时序知识图谱
 
-- [Learning Sequence Encoders for Temporal Knowledge Graph Completion](./paper/Learning Sequence Encoders for Temporal Knowledge Graph Completion)
+- [Learning Sequence Encoders for Temporal Knowledge Graph Completion](./paper/Learning Sequence Encoders for Temporal Knowledge Graph Completion.pdf)
+
 
 ## 图谱及数据集
 ### 开放知识图谱
