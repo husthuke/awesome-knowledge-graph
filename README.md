@@ -17,9 +17,15 @@
 
 <!-- /MarkdownTOC -->
 ## 理论及论文
+### 通用
+
 - [知识图谱构建技术综述](./paper/知识图谱构建技术综述_刘峤.caj)
 - [知识图谱研究进展](./paper/知识图谱研究进展_漆桂林.caj)
 - [医学知识图谱构建技术与研究进展](./paper/医学知识图谱构建技术与研究进展_袁凯琦.caj)
+
+### 动态或时序知识图谱
+
+- [Learning Sequence Encoders for Temporal Knowledge Graph Completion](./paper/Learning Sequence Encoders for Temporal Knowledge Graph Completion)
 
 ## 图谱及数据集
 ### 开放知识图谱
@@ -62,6 +68,17 @@ WikiData的目标是构建一个免费开放、多语言、任何人或机器都
 该任务来自NLPCC 2017评测任务，开放域问答评价任务主要包括三项子任务，基于知识库的问答（kbqa），基于文档的问答（dbqa），和基于表的问答（tbqa）。kbqa的任务是基于知识库的中文问题回答。dbqa的任务是通过选择一个或多个句子从一个给定的文档，作为答案回答中文问题。tbqa的任务是一个全新的QA任务，旨在通过从收集的表格中抽取一个或多个表回答英语问题。
 
 [下载链接](https://biendata.com/ccf_tcci2018/datasets/tcci_tag/11)
+
+#### GDELT
+GDELT（Global Database of Events, Language, and Tone）是最大的综合人类社会关系数据库，以100多种语言监控来自每个国家几乎每个角落的广播、印刷和网络新闻，并确定推动我们全球社会的人、地点、组织、主题、来源、情感、计数、报价、图像和事件每天的每一秒，它的全球知识图将世界的人，组织，地点，主题，计数，图像和情感连接到整个地球上的单一整体网络。为整个世界的计算创建一个免费的开放平台。
+
+[下载链接](https://www.gdeltproject.org)
+
+
+#### ICEWS
+ICEWS（Integrated Crisis Early Warning System）捕获和处理来自数字化新闻媒体，社交媒体和其他来源的数百万条数据，以预测，跟踪和响应世界各地的事件，主要用于早期预警。该数据集在知识图谱领域主要用于动态事件预测等动态图谱方面。
+
+[下载链接](https://dataverse.harvard.edu/dataverse/icews)
 
 ## 工具
 根据知识图谱的通用基本构建流程为依据，每个阶段都整理部分工具。
@@ -120,7 +137,6 @@ DeepDive是
 - [知识图谱系统架构剖析](https://edu.csdn.net/course/detail/10286)
 - [AI开发者大会——知识图谱专题](https://edu.csdn.net/course/detail/10284)
 
-## 会议及讲座
 
 
 
@@ -139,7 +155,7 @@ DeepDive是
 - [CCKS 2017 问题命名实体识别和链接任务](https://www.biendata.com/competition/CCKS2017_1/)
 - [CCKS 2017 面向电子病历的命名实体识别](https://www.biendata.com/competition/CCKS2017_2/)
 
-## 会议交流
+## 会议交流及讲座
 ### AICon
 - [AICon 2017知识图谱技术实践](https://aicon2017.geekbang.org/training/1)
 - [AICon 2018知识图谱深度培训](https://aicon2018.geekbang.org/training/1315)
@@ -158,10 +174,10 @@ DeepDive是
 
 
 
-
 ### 其他
 - [知识图谱中的深度学习技术应用概述](https://v.qq.com/x/page/i0700c29hw1.html)
 - [2018云栖大会上海-人工智能专场](https://yunqi.youku.com/2018/shanghai/review?spm=a2c4e.11165380.1076033.1)
+- [AI研习社-知识图谱的嵌入：更好更快的负采样](http://www.mooc.ai/open/course/640)
 
 ## 项目案例
 ### 教育领域知识图谱
