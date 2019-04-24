@@ -81,6 +81,11 @@ ICEWS（Integrated Crisis Early Warning System）捕获和处理来自数字化�
 
 [下载链接](https://dataverse.harvard.edu/dataverse/icews)
 
+#### OAG
+OAG（Open Academic Graph包含来自MAG的166,192,182篇论文和来自AMiner的154,771,162篇论文，并生成了两个图之间的64,639,608个链接（匹配）关系。它可以作为研究引文网络，论文内容等的统一大型学术图表，也可以用于研究多个学术图表的整合。
+
+[下载链接](https://www.aminer.cn/open-academic-graph)
+
 ## 工具
 根据知识图谱的通用基本构建流程为依据，每个阶段都整理部分工具。
 #### 知识建模
