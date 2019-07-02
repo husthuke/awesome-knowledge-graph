@@ -123,20 +123,23 @@ DeepDive是
 #### 机构
 
 #### 人物
-- 刘知远:[清华官网](http://nlp.csai.tsinghua.edu.cn/~lzy/)、[知乎主页]()
-- 漆桂林:
-- 肖仰光:
+- 李娟子:[清华大学网页](http://keg.cs.tsinghua.edu.cn/persons/ljz/)
+- 刘知远:[清华大学网页](http://nlp.csai.tsinghua.edu.cn/~lzy/)、[知乎主页](https://www.zhihu.com/people/zibuyu9/activities)
+- 漆桂林:[东南大学网页](https://cse.seu.edu.cn/2019/0103/c23024a257135/page.htm)
+- 肖仰华:[复旦大学网页](http://gdm.fudan.edu.cn/GDMWiki/Wiki.jsp?page=Yanghuaxiao)
+- 刘康:[中科院网页](http://people.ucas.ac.cn/~liukang)
 - 王昊奋:
 
 
 ## 视频课程
 
 ### 小象学院知识图谱课程
-- [知识图谱的技术与应用](https://www.greedyai.com/course/19/summary/introduce)
-- [教你搭建一个工业级知识图谱系统](https://www.greedyai.com/course/30/summary/knowledgeMapProject)
+- [知识图谱](https://www.chinahadoop.cn/course/1048)
 
 
 ### 贪心学院知识图谱课程
+- [知识图谱的技术与应用](https://www.greedyai.com/course/19/summary/introduce)
+- [教你搭建一个工业级知识图谱系统](https://www.greedyai.com/course/30/summary/knowledgeMapProject)
 
 
 ### 炼数成金知识图谱课程
