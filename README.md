@@ -132,6 +132,8 @@ DeepDive是
 ## 视频课程
 
 ### 小象学院知识图谱课程
+- [知识图谱的技术与应用](https://www.greedyai.com/course/19/summary/introduce)
+- [教你搭建一个工业级知识图谱系统](https://www.greedyai.com/course/30/summary/knowledgeMapProject)
 
 
 ### 贪心学院知识图谱课程
