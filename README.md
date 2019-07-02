@@ -6,13 +6,14 @@
 ## 目录
 - [理论及论文](#理论及论文)
 - [图谱及数据集](#图谱及数据集)
-- [工具](#工具)
+- [工具及服务](#工具)
 - [白皮书及报告](#白皮书及报告)
 - [机构及人物](#机构及人物)
 - [视频课程](#视频课程)
 - [专栏合集](#专栏合集)
 - [评测竞赛](#评测竞赛)
 - [项目案例](#项目案例)
+- [推广技术文章](#推广技术文章)
 
 
 <!-- /MarkdownTOC -->
@@ -88,15 +89,15 @@ OAG（Open Academic Graph包含来自MAG的166,192,182篇论文和来自AMiner�
 
 ## 工具
 根据知识图谱的通用基本构建流程为依据，每个阶段都整理部分工具。
-#### 知识建模
+### 知识建模
 
 ### 知识抽取
 #### Deepdive
 
-DeepDive是
 
 
-#### 知识推理
+
+### 知识推理
 
 - [官网地址](http://deepdive.stanford.edu/)
 - [Github地址](https://github.com/HazyResearch/deepdive)
@@ -209,5 +210,31 @@ DeepDive是
 
 
 ### 知识工程领域知识图谱
+
+## 推广技术文章
+### 2017
+- [百度王海峰：知识图谱是 AI 的基石](https://www.infoq.cn/article/2017/11/Knowledge-map-cornerstone-AI)
+- [智能导购？你只看到了阿里知识图谱冰山一角](https://www.csdn.net/article/a/2017-12-08/15937080)
+
+
+
+### 2018
+- [张伟博士：阿里巴巴百亿级别的三元组知识图谱掌舵者](https://www.shangyexinzhi.com/article/details/id-28524/)
+- [知识图谱数据构建的“硬骨头”，阿里工程师如何拿下？](https://yq.aliyun.com/articles/544941)
+- [这是一份通俗易懂的知识图谱技术与应用指南](https://www.jiqizhixin.com/articles/2018-06-20-4)
+- [一文揭秘！自底向上构建知识图谱全过程](https://102.alibaba.com/detail?id=134)
+- [健康知识图谱，阿里工程师如何实现？](https://102.alibaba.com/detail?id=176)
+- [为电商而生的知识图谱，如何感应用户需求？](https://yq.aliyun.com/articles/632483)
+- [肖仰华谈知识图谱：知识将比数据更重要，得知识者得天下](https://blog.csdn.net/dQCFKyQDXYm3F8rB0/article/details/83451280)
+- [快手结合知识图谱进行多模态内容理解](https://www.infoq.cn/article/2018/09/Multimedia-Understanding-AI)
+- [腾讯互娱刘伟：知识图谱让AI更有学识](https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651009590&idx=4&sn=e684d70e85b17d4bbb3e48f990014a0d&chksm=bdbeca658ac943737373d9a697bd0296c29b8c20b21638b3b58063c36d846bf4e66635efc79c&scene=27#wechat_redirect)
+- [美团大脑：知识图谱的建模方法及其应用](https://tech.meituan.com/2018/11/01/meituan-ai-nlp.html)
+- [美团餐饮娱乐知识图谱——美团大脑揭秘](https://tech.meituan.com/2018/11/22/meituan-brain-nlp-01.html)
+
+### 2019
+- [大众点评搜索基于知识图谱的深度学习排序实践](https://www.infoq.cn/article/JZ_qdBDiMc1pHpBMDR2Q)
+- [下一代 AI 系统基石：知识图谱将何去何从？](https://www.infoq.cn/article/DCf3GUp_alTIMuyxYWl3)
+- [阿里巴巴电商认知图谱揭秘](https://www.secrss.com/articles/9743)
+
 
 
