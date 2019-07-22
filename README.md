@@ -129,6 +129,7 @@ OAG（Open Academic Graph包含来自MAG的166,192,182篇论文和来自AMiner�
 - 漆桂林:[东南大学网页](https://cse.seu.edu.cn/2019/0103/c23024a257135/page.htm)
 - 肖仰华:[复旦大学网页](http://gdm.fudan.edu.cn/GDMWiki/Wiki.jsp?page=Yanghuaxiao)
 - 刘康:[中科院网页](http://people.ucas.ac.cn/~liukang)
+- 刘挺:[哈工大网页](http://homepage.hit.edu.cn/liuting)
 - 王昊奋:
 
 
@@ -218,19 +219,24 @@ OAG（Open Academic Graph包含来自MAG的166,192,182篇论文和来自AMiner�
 
 
 ### 2017
+- [阿里知识图谱首次曝光：每天千万级拦截量，亿级别全量智能审核](https://mp.weixin.qq.com/s/MZE_SXsNg6Yt4dz2fmB1sA)
 - [百度王海峰：知识图谱是 AI 的基石](https://www.infoq.cn/article/2017/11/Knowledge-map-cornerstone-AI)
+- [哈工大刘挺：从知识图谱到事理图谱](https://mp.weixin.qq.com/s/1nl56AdZIkT03gnmimt8nQ)
 - [智能导购？你只看到了阿里知识图谱冰山一角](https://www.csdn.net/article/a/2017-12-08/15937080)
 
 
 
 ### 2018
 - [张伟博士：阿里巴巴百亿级别的三元组知识图谱掌舵者](https://www.shangyexinzhi.com/article/details/id-28524/)
+- [知识图谱在互联网金融行业的应用](https://mp.weixin.qq.com/s/YeSzOw6dRNiX32PmdWgLow)
+- [上交大发布知识图谱AceKG，超1亿实体，近100G数据量](https://mp.weixin.qq.com/s/qsRTBR5g5LZ6UR7Wtqagyw)
 - [知识图谱数据构建的“硬骨头”，阿里工程师如何拿下？](https://yq.aliyun.com/articles/544941)
 - [这是一份通俗易懂的知识图谱技术与应用指南](https://www.jiqizhixin.com/articles/2018-06-20-4)
 - [一文揭秘！自底向上构建知识图谱全过程](https://102.alibaba.com/detail?id=134)
 - [健康知识图谱，阿里工程师如何实现？](https://102.alibaba.com/detail?id=176)
 - [为电商而生的知识图谱，如何感应用户需求？](https://yq.aliyun.com/articles/632483)
 - [肖仰华谈知识图谱：知识将比数据更重要，得知识者得天下](https://blog.csdn.net/dQCFKyQDXYm3F8rB0/article/details/83451280)
+- [知识图谱在旅游领域有哪些应用？携程度假团队这样回答](https://mp.weixin.qq.com/s?__biz=MjM5MDI3MjA5MQ==&mid=2697267537&idx=1&sn=3011302613b90749d7ffe0cc3a805d1f)
 - [快手结合知识图谱进行多模态内容理解](https://www.infoq.cn/article/2018/09/Multimedia-Understanding-AI)
 - [腾讯互娱刘伟：知识图谱让AI更有学识](https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651009590&idx=4&sn=e684d70e85b17d4bbb3e48f990014a0d&chksm=bdbeca658ac943737373d9a697bd0296c29b8c20b21638b3b58063c36d846bf4e66635efc79c&scene=27#wechat_redirect)
 - [美团大脑：知识图谱的建模方法及其应用](https://tech.meituan.com/2018/11/01/meituan-ai-nlp.html)
