@@ -212,6 +212,11 @@ OAG（Open Academic Graph包含来自MAG的166,192,182篇论文和来自AMiner�
 ### 知识工程领域知识图谱
 
 ## 推广技术文章
+### 2016
+- [构建 LinkedIn 知识图谱
+](https://www.infoq.cn/article/constructing-linkedin-knowledge-map)
+
+
 ### 2017
 - [百度王海峰：知识图谱是 AI 的基石](https://www.infoq.cn/article/2017/11/Knowledge-map-cornerstone-AI)
 - [智能导购？你只看到了阿里知识图谱冰山一角](https://www.csdn.net/article/a/2017-12-08/15937080)
@@ -230,9 +235,11 @@ OAG（Open Academic Graph包含来自MAG的166,192,182篇论文和来自AMiner�
 - [腾讯互娱刘伟：知识图谱让AI更有学识](https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651009590&idx=4&sn=e684d70e85b17d4bbb3e48f990014a0d&chksm=bdbeca658ac943737373d9a697bd0296c29b8c20b21638b3b58063c36d846bf4e66635efc79c&scene=27#wechat_redirect)
 - [美团大脑：知识图谱的建模方法及其应用](https://tech.meituan.com/2018/11/01/meituan-ai-nlp.html)
 - [美团餐饮娱乐知识图谱——美团大脑揭秘](https://tech.meituan.com/2018/11/22/meituan-brain-nlp-01.html)
+- [人力资源知识图谱搭建及应用](https://www.jiqizhixin.com/articles/2018-11-23-3)
 
 ### 2019
 - [大众点评搜索基于知识图谱的深度学习排序实践](https://www.infoq.cn/article/JZ_qdBDiMc1pHpBMDR2Q)
+- [知识图谱已成AI下一风口，但你知道它进展到哪了吗？](https://36kr.com/p/5170293)
 - [下一代 AI 系统基石：知识图谱将何去何从？](https://www.infoq.cn/article/DCf3GUp_alTIMuyxYWl3)
 - [阿里巴巴电商认知图谱揭秘](https://www.secrss.com/articles/9743)
 
