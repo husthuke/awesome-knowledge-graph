@@ -21,12 +21,14 @@
 ### 通用
 
 - [知识图谱构建技术综述](./paper/知识图谱构建技术综述_刘峤.caj)
+- [知识图谱技术综述](./paper/知识图谱技术综述.pdf)
+- [知识图谱研究综述](./paper/知识图谱研究综述-李涓子.pdf)
 - [知识图谱研究进展](./paper/知识图谱研究进展_漆桂林.caj)
 - [医学知识图谱构建技术与研究进展](./paper/医学知识图谱构建技术与研究进展_袁凯琦.caj)
 
 ### 动态或时序知识图谱
 
-- [Learning Sequence Encoders for Temporal Knowledge Graph Completion](./paper/Learning Sequence Encoders for Temporal Knowledge Graph Completion.pdf)
+- [Learning Sequence Encoders for Temporal Knowledge Graph Completion](./paper/Learning_Sequence_Encoders_for_Temporal_Knowledge_Graph_Completion.pdf)
 
 
 ## 图谱及数据集
