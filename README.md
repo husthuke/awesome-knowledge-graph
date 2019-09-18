@@ -18,13 +18,22 @@
 
 <!-- /MarkdownTOC -->
 ## 理论及论文
-### 通用
+### 综述-Survey
 
 - [知识图谱构建技术综述](./paper/知识图谱构建技术综述_刘峤.caj)
 - [知识图谱技术综述](./paper/知识图谱技术综述.pdf)
 - [知识图谱研究综述](./paper/知识图谱研究综述-李涓子.pdf)
 - [知识图谱研究进展](./paper/知识图谱研究进展_漆桂林.caj)
 - [医学知识图谱构建技术与研究进展](./paper/医学知识图谱构建技术与研究进展_袁凯琦.caj)
+
+### 命名实体识别-NER
+
+### 推理-Reasoning
+
+- [ATOMIC: An Atlas of Machine Commonsense for If-Then Reasoning](./paper/ATOMIC- An Atlas of Machine Commonsense for If-Then Reasoning.pdf)
+
+
+### 知识库问答-KBQA
 
 ### 动态或时序知识图谱
 
@@ -250,6 +259,7 @@ OAG（Open Academic Graph包含来自MAG的166,192,182篇论文和来自AMiner�
 - [知识图谱已成AI下一风口，但你知道它进展到哪了吗？](https://36kr.com/p/5170293)
 - [下一代 AI 系统基石：知识图谱将何去何从？](https://www.infoq.cn/article/DCf3GUp_alTIMuyxYWl3)
 - [阿里巴巴电商认知图谱揭秘](https://www.secrss.com/articles/9743)
+- [阿里小蜜：知识结构化推动智能客服升级](https://www.infoq.cn/article/ocHiWF5rKuaBDxM5S28x)
 
 
 
