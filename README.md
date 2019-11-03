@@ -20,11 +20,11 @@
 ## 理论及论文
 ### 综述-Survey
 
-- [知识图谱构建技术综述](./paper/知识图谱构建技术综述_刘峤.caj)
-- [知识图谱技术综述](./paper/知识图谱技术综述.pdf)
-- [知识图谱研究综述](./paper/知识图谱研究综述-李涓子.pdf)
-- [知识图谱研究进展](./paper/知识图谱研究进展_漆桂林.caj)
-- [医学知识图谱构建技术与研究进展](./paper/医学知识图谱构建技术与研究进展_袁凯琦.caj)
+- [知识图谱构建技术综述_刘峤](./paper/知识图谱构建技术综述_刘峤.caj)
+- [知识图谱技术综述_徐增林](./paper/知识图谱技术综述.pdf)
+- [知识图谱研究综述_李涓子](./paper/知识图谱研究综述-李涓子.pdf)
+- [知识图谱研究进展_漆桂林](./paper/知识图谱研究进展_漆桂林.caj)
+- [医学知识图谱构建技术与研究进展_袁凯琦](./paper/医学知识图谱构建技术与研究进展_袁凯琦.caj)
 
 ### 命名实体识别-NER
 
@@ -171,6 +171,13 @@ OAG（Open Academic Graph包含来自MAG的166,192,182篇论文和来自AMiner�
 #### 简书集合
 
 ## 评测竞赛
+- [“达观杯”文本智能信息抽取挑战赛](https://www.biendata.com/competition/datagrand/)
+- [CCKS 2019 公众公司公告信息抽取](https://www.biendata.com/competition/ccks_2019_5/)
+- [CCKS 2019 医疗命名实体识别](https://www.biendata.com/competition/ccks_2019_1/)
+- [CCKS 2019 医疗命名实体识别](https://www.biendata.com/competition/ccks_2019_4/)
+- [CCKS 2019 人物关系抽取](https://biendata.com/competition/ccks_2019_ipre/)
+- [CCKS 2019 中文短文本的实体链指](https://biendata.com/competition/ccks_2019_el/)
+- [CCIR 2019 基于电子病历的数据查询类问答](https://www.biendata.com/competition/ccir2019/)
 - [瑞金医院MMC人工智能辅助构建知识图谱大赛](https://tianchi.aliyun.com/competition/introduction.htm?spm=5176.100066.0.0.457933afBacvqN&raceId=231687)
 - [CCKS 2018 面向中文电子病历的命名实体识别](https://www.biendata.com/competition/CCKS2018_1/)
 - [CCKS 2018 面向音乐领域的命令理解任务](https://www.biendata.com/competition/CCKS2018_2/)
@@ -188,7 +195,7 @@ OAG（Open Academic Graph包含来自MAG的166,192,182篇论文和来自AMiner�
 - [BDTC 2018 医疗知识图谱的构建和应用](./conference/医疗知识图谱的构建和应用.pdf)
 - [BDTC 2018 从知识图谱到人工智能：产品演进路径上的思考](./conference/从知识图谱到人工智能-产品演进路径上的思考.pdf)
 - [BDTC 2018 基于cnSchema的大规模金融知识图谱实战](./conference/基于cnSchema的大规模金融知识图谱实战.pdf)
-- [BDTC 2017 Event Extraction from Texts](./conference/Event Extraction from Texts.pdf)
+- [BDTC 2017 Event Extraction from Texts](./conference/Event_Extraction_from_Texts.pdf)
 - [BDTC 2017 知性会话：基于知识图谱的人机对话系统方法与实践](./conference/知性会话-基于知识图谱的人机对话系统方法与实践.pdf)
 - [BDTC 2017 基于图的海量知识图谱数据管理](./conference/基于图的海量知识图谱数据管理.pdf)
 - [CSDN AI 2018 医疗知识图谱的敏捷构建和实践](./conference/医疗知识图谱的敏捷构建和实践.pdf)
@@ -211,6 +218,9 @@ OAG（Open Academic Graph包含来自MAG的166,192,182篇论文和来自AMiner�
 #### 利用网络上公开的数据构建一个小型的证券知识图谱/知识库
 - https://github.com/lemonhu/stock-knowledge-graph.git
 
+#### 上市公司高管图谱
+- https://github.com/Shuang0420/knowledge_graph_demo
+
 ### 医疗领域知识图谱
 
 ### 农业领域知识图谱
@@ -218,10 +228,23 @@ OAG（Open Academic Graph包含来自MAG的166,192,182篇论文和来自AMiner�
 #### 使用爬虫获取Wikidata数据构建
 - https://github.com/CrisJk/Agriculture-KnowledgeGraph-Data.git
 
-### 佛学知识图谱
-
 
 ### 知识工程领域知识图谱
+
+### 其他知识图谱
+
+#### 红楼梦人物关系图谱
+- https://github.com/chizhu/KGQA_HLM
+
+#### 通用领域知识图谱
+- https://github.com/Pelhans/Z_knowledge_graph
+
+#### 免费1.5亿实体通用领域知识图谱
+- https://github.com/ownthink/KnowledgeGraph
+
+#### 简易电影领域知识图谱及KBQA系统
+- https://github.com/SimmerChan/KG-demo-for-movie
+
 
 ## 推广技术文章
 ### 2016
@@ -259,7 +282,13 @@ OAG（Open Academic Graph包含来自MAG的166,192,182篇论文和来自AMiner�
 - [知识图谱已成AI下一风口，但你知道它进展到哪了吗？](https://36kr.com/p/5170293)
 - [下一代 AI 系统基石：知识图谱将何去何从？](https://www.infoq.cn/article/DCf3GUp_alTIMuyxYWl3)
 - [阿里巴巴电商认知图谱揭秘](https://www.secrss.com/articles/9743)
+- [为电商而生的知识图谱，如何感应用户需求？](https://yq.aliyun.com/articles/714353?spm=a2c4e.11163080.searchblog.41.2c1c2ec1qTNAAh)
 - [阿里小蜜：知识结构化推动智能客服升级](https://www.infoq.cn/article/ocHiWF5rKuaBDxM5S28x)
+- [CCKS 2019:百度CTO王海峰详解知识图谱与语义理解](https://www.jiqizhixin.com/articles/2019-09-12-4)
+- [反守为攻！从华为知识图谱窥探AI布局](https://view.inews.qq.com/a/20190528A0SR9E00)
+
+
+
 
 
 
