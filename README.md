@@ -20,17 +20,27 @@
 ## 理论及论文
 ### 综述-Survey
 
-- [知识图谱构建技术综述_刘峤](./paper/知识图谱构建技术综述_刘峤.caj)
-- [知识图谱技术综述_徐增林](./paper/知识图谱技术综述.pdf)
-- [知识图谱研究综述_李涓子](./paper/知识图谱研究综述-李涓子.pdf)
-- [知识图谱研究进展_漆桂林](./paper/知识图谱研究进展_漆桂林.caj)
-- [医学知识图谱构建技术与研究进展_袁凯琦](./paper/医学知识图谱构建技术与研究进展_袁凯琦.caj)
+
+- [Knowledge Graph Construction Techniques](./paper/知识图谱构建技术综述_刘峤.caj)
+- [Review on Knowledge Graph Techniques](./paper/知识图谱技术综述.pdf)
+- [Reviews on Knowledge Graph Research](./paper/知识图谱研究综述-李涓子.pdf)
+- [The Research Advances of Knowledge Graph](./paper/知识图谱研究进展_漆桂林.caj)
+
+
+### Representation&Embedding
+
+- [Knowledge Representation Learning: A Review](./paper/知识表示学习研究进展_刘知远.caj)
+- [Holographic embeddings of knowledge graphs](https://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/viewFile/12484/11828)
+- [Context-dependent knowledge graph embedding. EMNLP 2015. Luo, Yuanfei and Wang, Quan and Wang, Bin and Guo, Li.](http://www.aclweb.org/anthology/D15-1191)
+- [GAKE: graph aware knowledge embedding. COLING 2016. Feng, Jun and Huang, Minlie and Yang, Yang and Zhu, Xiaoyan.](http://www.aclweb.org/anthology/C16-1062)
+- [Bootstrapping Entity Alignment with Knowledge Graph Embedding. IJCAI 2018. Zequn Sun, Wei Hu, Qingheng Zhang and Yuzhong Qu.](https://www.ijcai.org/proceedings/2018/0611.pdf)
+- [KBGAN: Adversarial Learning for Knowledge Graph Embeddings. NAACL 2018. Cai, Liwei, and William Yang Wang.](https://arxiv.org/pdf/1711.04071.pdf)
 
 ### 命名实体识别-NER
 
 ### 推理-Reasoning
 
-- [ATOMIC: An Atlas of Machine Commonsense for If-Then Reasoning](./paper/ATOMIC- An Atlas of Machine Commonsense for If-Then Reasoning.pdf)
+- [ATOMIC: An Atlas of Machine Commonsense for If-Then Reasoning](./paper/ATOMIC-An_Atlas_of_Machine_Commonsense_for_If-Then_Reasoning.pdf)
 
 
 ### 知识库问答-KBQA
@@ -276,6 +286,7 @@ OAG（Open Academic Graph包含来自MAG的166,192,182篇论文和来自AMiner�
 - [美团大脑：知识图谱的建模方法及其应用](https://tech.meituan.com/2018/11/01/meituan-ai-nlp.html)
 - [美团餐饮娱乐知识图谱——美团大脑揭秘](https://tech.meituan.com/2018/11/22/meituan-brain-nlp-01.html)
 - [人力资源知识图谱搭建及应用](https://www.jiqizhixin.com/articles/2018-11-23-3)
+- [基于概念知识图谱的短文本理解——王仲远](https://blog.csdn.net/TgqDT3gGaMdkHasLZv/article/details/79736982)
 
 ### 2019
 - [大众点评搜索基于知识图谱的深度学习排序实践](https://www.infoq.cn/article/JZ_qdBDiMc1pHpBMDR2Q)
