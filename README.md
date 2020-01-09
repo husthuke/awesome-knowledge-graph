@@ -146,6 +146,7 @@ OAG（Open Academic Graph包含来自MAG的166,192,182篇论文和来自AMiner�
 
 ## 白皮书及报告
 - [CCKS2018-知识图谱发展报告](./report/CCKS2018-知识图谱发展报告.pdf)
+- [知识图谱标准化白皮书(2019版)](./report/知识图谱标准化白皮书(2019版).pdf)
 
 
 
