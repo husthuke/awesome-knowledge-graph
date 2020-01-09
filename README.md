@@ -53,6 +53,10 @@
 - [Learning Sequence Encoders for Temporal Knowledge Graph Completion](./paper/Learning_Sequence_Encoders_for_Temporal_Knowledge_Graph_Completion.pdf)
 
 ### 知识追踪
+- [Knowledge tracing- Modeling the acquisition of procedural knowledge](./paper/Knowledge_tracing-Modeling_the_acquisition_of_procedural_knowledge.pdf)
+- [Individualized Bayesian Knowledge Tracing Models](./paper/Individualized_Bayesian_Knowledge_Tracing_Models.pdf)
+- [Deep Knowledge Tracing](./paper/Deep_Knowledge_Tracing.pdf)
+- [Tracking Knowledge Proficiency of Students with Educational Priors](./paper/Tracking_Knowledge_Proficiency_of_Students_with_Educational_Priors.pdf)
 
 
 
