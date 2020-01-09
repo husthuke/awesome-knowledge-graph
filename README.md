@@ -38,6 +38,9 @@
 
 ### 命名实体识别-NER
 
+### 实体对齐
+- [A Survey on Entity Alignment of Knowledge Base](./paper/知识库实体对齐技术综述.pdf)
+
 ### 推理-Reasoning
 
 - [ATOMIC: An Atlas of Machine Commonsense for If-Then Reasoning](./paper/ATOMIC-An_Atlas_of_Machine_Commonsense_for_If-Then_Reasoning.pdf)
@@ -48,6 +51,9 @@
 ### 动态或时序知识图谱
 
 - [Learning Sequence Encoders for Temporal Knowledge Graph Completion](./paper/Learning_Sequence_Encoders_for_Temporal_Knowledge_Graph_Completion.pdf)
+
+### 知识追踪
+
 
 
 ## 图谱及数据集
