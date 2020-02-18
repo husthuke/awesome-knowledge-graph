@@ -32,14 +32,13 @@
 
 - [Latent Relation Language Models](https://arxiv.org/pdf/1908.07690.pdf)
 - [K-BERT: Enabling Language Representation with Knowledge Graph](https://arxiv.org/pdf/1909.07606.pdf)
+- [ERNIE: Enhanced Language Representation with Informative Entities](https://arxiv.org/abs/1905.07129)
 - [ERNIE 2.0: A Continual Pre-Training Framework for Language Understanding
 ](https://arxiv.org/pdf/1907.12412.pdf)
 - [SENSEMBERT: Context-Enhanced Sense Embeddings for Multilingual Word Sense Disambiguation](https://pasinit.github.io/papers/scarlini_etal_aaai2020.pdf)
 - [Inducing Relational Knowledge from BERT](https://arxiv.org/pdf/1911.12753.pdf)
-- [](https://arxiv.org/pdf/2001.08728.pdf)
-- [ERNIE: Enhanced Language Representation with Informative Entities](https://arxiv.org/abs/1905.07129)
-- []()
-- []()
+- [Integrating Graph Contextualized Knowledge into Pre-trained Language Models](https://arxiv.org/pdf/1912.00147.pdf)
+
 
 
 ### Representation&Embedding（表示&嵌入）
@@ -56,6 +55,7 @@
 ### Entity aligning(实体对齐)
 - [A Survey on Entity Alignment of Knowledge Base](./paper/知识库实体对齐技术综述.pdf)
 - [Knowledge Graph Alignment Network with Gated Multi-hop Neighborhood Aggregation](https://arxiv.org/pdf/1911.08936.pdf)
+- [Coordinated Reasoning for Cross-Lingual Knowledge Graph Alignment](https://arxiv.org/pdf/2001.08728.pdf)
 
 
 ### KG Completion(图谱补全)
@@ -73,7 +73,8 @@
 ### 知识库问答-KBQA
 
 - [Towards Scalable Multi-Domain Conversational Agents: The Schema-Guided Dialogue Dataset](https://arxiv.org/pdf/1909.05855.pdf)
-- [](https://arxiv.org/pdf/1912.07491.pdf)
+- [Improving Knowledge-aware Dialogue Generation via
+Knowledge Base Question Answering](https://arxiv.org/pdf/1912.07491.pdf)
 - [Graph-Based Reasoning over Heterogeneous External Knowledge for Commonsense Question Answering](https://arxiv.org/pdf/1909.05311.pdf)
 
 ### 动态或时序知识图谱
