@@ -18,7 +18,7 @@
 
 <!-- /MarkdownTOC -->
 ## 理论及论文
-### 综述-Survey
+### Survey
 
 
 - [Knowledge Graph Construction Techniques](./paper/知识图谱构建技术综述_刘峤.caj)
@@ -27,7 +27,22 @@
 - [The Research Advances of Knowledge Graph](./paper/知识图谱研究进展_漆桂林.caj)
 
 
-### Representation&Embedding
+### KG-Augmented LMs(知识图谱增强语言模型) 
+知识图谱增强语言模型是最近两年比较流行，主要发生在BERT出来之后，将知识先验信息融入到语言模型，可以说是知识图谱助力NLP十分关键的一环，将该专题放在比较靠前的位置。
+
+- [Latent Relation Language Models](https://arxiv.org/pdf/1908.07690.pdf)
+- [K-BERT: Enabling Language Representation with Knowledge Graph](https://arxiv.org/pdf/1909.07606.pdf)
+- [ERNIE 2.0: A Continual Pre-Training Framework for Language Understanding
+](https://arxiv.org/pdf/1907.12412.pdf)
+- [SENSEMBERT: Context-Enhanced Sense Embeddings for Multilingual Word Sense Disambiguation](https://pasinit.github.io/papers/scarlini_etal_aaai2020.pdf)
+- [Inducing Relational Knowledge from BERT](https://arxiv.org/pdf/1911.12753.pdf)
+- [](https://arxiv.org/pdf/2001.08728.pdf)
+- [ERNIE: Enhanced Language Representation with Informative Entities](https://arxiv.org/abs/1905.07129)
+- []()
+- []()
+
+
+### Representation&Embedding（表示&嵌入）
 
 - [Knowledge Representation Learning: A Review](./paper/知识表示学习研究进展_刘知远.caj)
 - [Holographic embeddings of knowledge graphs](https://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/viewFile/12484/11828)
@@ -36,23 +51,38 @@
 - [Bootstrapping Entity Alignment with Knowledge Graph Embedding. IJCAI 2018. Zequn Sun, Wei Hu, Qingheng Zhang and Yuzhong Qu.](https://www.ijcai.org/proceedings/2018/0611.pdf)
 - [KBGAN: Adversarial Learning for Knowledge Graph Embeddings. NAACL 2018. Cai, Liwei, and William Yang Wang.](https://arxiv.org/pdf/1711.04071.pdf)
 
-### 命名实体识别-NER
+### NER(命名实体识别)
 
-### 实体对齐
+### Entity aligning(实体对齐)
 - [A Survey on Entity Alignment of Knowledge Base](./paper/知识库实体对齐技术综述.pdf)
+- [Knowledge Graph Alignment Network with Gated Multi-hop Neighborhood Aggregation](https://arxiv.org/pdf/1911.08936.pdf)
 
-### 推理-Reasoning
+
+### KG Completion(图谱补全)
+- [Differentiable Reasoning on Large Knowledge Bases and Natural Language](https://arxiv.org/pdf/1912.10824.pdf)
+- [Diachronic Embedding for Temporal Knowledge Graph Completion](https://arxiv.org/pdf/1907.03143.pdf)
+- [Commonsense Knowledge Base Completion with Structural and Semantic Context](https://arxiv.org/pdf/1910.02915.pdf)
+- [KG-BERT: BERT for Knowledge Graph Completion](https://arxiv.org/pdf/1909.03193.pdf)
+
+### Reasoning(推理)
 
 - [ATOMIC: An Atlas of Machine Commonsense for If-Then Reasoning](./paper/ATOMIC-An_Atlas_of_Machine_Commonsense_for_If-Then_Reasoning.pdf)
+- [Reasoning on Knowledge Graphs with Debate Dynamics](https://arxiv.org/pdf/2001.00461.pdf)
 
 
 ### 知识库问答-KBQA
+
+- [Towards Scalable Multi-Domain Conversational Agents: The Schema-Guided Dialogue Dataset](https://arxiv.org/pdf/1909.05855.pdf)
+- [](https://arxiv.org/pdf/1912.07491.pdf)
+- [Graph-Based Reasoning over Heterogeneous External Knowledge for Commonsense Question Answering](https://arxiv.org/pdf/1909.05311.pdf)
 
 ### 动态或时序知识图谱
 
 - [Learning Sequence Encoders for Temporal Knowledge Graph Completion](./paper/Learning_Sequence_Encoders_for_Temporal_Knowledge_Graph_Completion.pdf)
 
-### 知识追踪
+### Tracing(知识追踪)
+本类别并不是传统知识图谱中的任务，而是与教育领域结合的广义上的知识图谱任务。
+
 - [Knowledge tracing- Modeling the acquisition of procedural knowledge](./paper/Knowledge_tracing-Modeling_the_acquisition_of_procedural_knowledge.pdf)
 - [Individualized Bayesian Knowledge Tracing Models](./paper/Individualized_Bayesian_Knowledge_Tracing_Models.pdf)
 - [Deep Knowledge Tracing](./paper/Deep_Knowledge_Tracing.pdf)
