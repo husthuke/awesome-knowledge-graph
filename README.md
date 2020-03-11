@@ -38,6 +38,9 @@
 - [SENSEMBERT: Context-Enhanced Sense Embeddings for Multilingual Word Sense Disambiguation](https://pasinit.github.io/papers/scarlini_etal_aaai2020.pdf)
 - [Inducing Relational Knowledge from BERT](https://arxiv.org/pdf/1911.12753.pdf)
 - [Integrating Graph Contextualized Knowledge into Pre-trained Language Models](https://arxiv.org/pdf/1912.00147.pdf)
+- [Enhancing Pre-Trained Language Representations with Rich Knowledge
+for Machine Reading Comprehension](https://www.aclweb.org/anthology/P19-1226.pdf)
+- [K-ADAPTER- Infusing Knowledge into Pre-Trained Models with Adapters](https://arxiv.org/pdf/2002.01808)
 
 
 
