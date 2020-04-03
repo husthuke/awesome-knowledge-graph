@@ -25,8 +25,8 @@
 - [Review on Knowledge Graph Techniques](./paper/知识图谱技术综述.pdf)
 - [Reviews on Knowledge Graph Research](./paper/知识图谱研究综述-李涓子.pdf)
 - [The Research Advances of Knowledge Graph](./paper/知识图谱研究进展_漆桂林.caj)
-- [A Survey on Knowledge Graphs: Representation, Acquisition and Applications(2020)](https://arxiv.org/pdf/2002.00388.pdf)
-- [Knowledge Graphs(2020)](https://arxiv.org/pdf/2003.02320.pdf)
+- [A Survey on Knowledge Graphs: Representation, Acquisition and Applications (2020)](https://arxiv.org/pdf/2002.00388.pdf)
+- [Knowledge Graphs (2020)](https://arxiv.org/pdf/2003.02320.pdf)
 
 
 ### KG-Augmented LMs(知识图谱增强语言模型) 
@@ -43,7 +43,9 @@
 - [Enhancing Pre-Trained Language Representations with Rich Knowledge
 for Machine Reading Comprehension](https://www.aclweb.org/anthology/P19-1226.pdf)
 - [K-ADAPTER- Infusing Knowledge into Pre-Trained Models with Adapters](https://arxiv.org/pdf/2002.01808)
-
+- [Knowledge Enhanced Contextual Word Representations (EMNLP 2019)](https://arxiv.org/abs/1909.04164)
+- [KEPLER: A Unified Model for Knowledge Embedding and
+Pre-trained Language Representation (2020)](https://arxiv.org/pdf/1911.06136.pdf)
 
 
 ### Representation&Embedding（表示&嵌入）
