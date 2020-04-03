@@ -25,6 +25,8 @@
 - [Review on Knowledge Graph Techniques](./paper/知识图谱技术综述.pdf)
 - [Reviews on Knowledge Graph Research](./paper/知识图谱研究综述-李涓子.pdf)
 - [The Research Advances of Knowledge Graph](./paper/知识图谱研究进展_漆桂林.caj)
+- [A Survey on Knowledge Graphs: Representation, Acquisition and Applications(2020)](https://arxiv.org/pdf/2002.00388.pdf)
+- [Knowledge Graphs(2020)](https://arxiv.org/pdf/2003.02320.pdf)
 
 
 ### KG-Augmented LMs(知识图谱增强语言模型) 
