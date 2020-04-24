@@ -325,17 +325,15 @@ OAG（Open Academic Graph包含来自MAG的166,192,182篇论文和来自AMiner�
 
 
 ## 推广技术文章
-### 2016
-- [构建 LinkedIn 知识图谱
-](https://www.infoq.cn/article/constructing-linkedin-knowledge-map)
-
-
-### 2017
-- [阿里知识图谱首次曝光：每天千万级拦截量，亿级别全量智能审核](https://mp.weixin.qq.com/s/MZE_SXsNg6Yt4dz2fmB1sA)
-- [百度王海峰：知识图谱是 AI 的基石](https://www.infoq.cn/article/2017/11/Knowledge-map-cornerstone-AI)
-- [哈工大刘挺：从知识图谱到事理图谱](https://mp.weixin.qq.com/s/1nl56AdZIkT03gnmimt8nQ)
-- [智能导购？你只看到了阿里知识图谱冰山一角](https://www.csdn.net/article/a/2017-12-08/15937080)
-
+### 2019
+- [大众点评搜索基于知识图谱的深度学习排序实践](https://www.infoq.cn/article/JZ_qdBDiMc1pHpBMDR2Q)
+- [知识图谱已成AI下一风口，但你知道它进展到哪了吗？](https://36kr.com/p/5170293)
+- [下一代 AI 系统基石：知识图谱将何去何从？](https://www.infoq.cn/article/DCf3GUp_alTIMuyxYWl3)
+- [阿里巴巴电商认知图谱揭秘](https://www.secrss.com/articles/9743)
+- [为电商而生的知识图谱，如何感应用户需求？](https://yq.aliyun.com/articles/714353?spm=a2c4e.11163080.searchblog.41.2c1c2ec1qTNAAh)
+- [阿里小蜜：知识结构化推动智能客服升级](https://www.infoq.cn/article/ocHiWF5rKuaBDxM5S28x)
+- [CCKS 2019:百度CTO王海峰详解知识图谱与语义理解](https://www.jiqizhixin.com/articles/2019-09-12-4)
+- [反守为攻！从华为知识图谱窥探AI布局](https://view.inews.qq.com/a/20190528A0SR9E00)
 
 
 ### 2018
@@ -356,15 +354,23 @@ OAG（Open Academic Graph包含来自MAG的166,192,182篇论文和来自AMiner�
 - [人力资源知识图谱搭建及应用](https://www.jiqizhixin.com/articles/2018-11-23-3)
 - [基于概念知识图谱的短文本理解——王仲远](https://blog.csdn.net/TgqDT3gGaMdkHasLZv/article/details/79736982)
 
-### 2019
-- [大众点评搜索基于知识图谱的深度学习排序实践](https://www.infoq.cn/article/JZ_qdBDiMc1pHpBMDR2Q)
-- [知识图谱已成AI下一风口，但你知道它进展到哪了吗？](https://36kr.com/p/5170293)
-- [下一代 AI 系统基石：知识图谱将何去何从？](https://www.infoq.cn/article/DCf3GUp_alTIMuyxYWl3)
-- [阿里巴巴电商认知图谱揭秘](https://www.secrss.com/articles/9743)
-- [为电商而生的知识图谱，如何感应用户需求？](https://yq.aliyun.com/articles/714353?spm=a2c4e.11163080.searchblog.41.2c1c2ec1qTNAAh)
-- [阿里小蜜：知识结构化推动智能客服升级](https://www.infoq.cn/article/ocHiWF5rKuaBDxM5S28x)
-- [CCKS 2019:百度CTO王海峰详解知识图谱与语义理解](https://www.jiqizhixin.com/articles/2019-09-12-4)
-- [反守为攻！从华为知识图谱窥探AI布局](https://view.inews.qq.com/a/20190528A0SR9E00)
+### 2017
+- [阿里知识图谱首次曝光：每天千万级拦截量，亿级别全量智能审核](https://mp.weixin.qq.com/s/MZE_SXsNg6Yt4dz2fmB1sA)
+- [百度王海峰：知识图谱是 AI 的基石](https://www.infoq.cn/article/2017/11/Knowledge-map-cornerstone-AI)
+- [哈工大刘挺：从知识图谱到事理图谱](https://mp.weixin.qq.com/s/1nl56AdZIkT03gnmimt8nQ)
+- [智能导购？你只看到了阿里知识图谱冰山一角](https://www.csdn.net/article/a/2017-12-08/15937080)
+
+### 2016
+- [构建 LinkedIn 知识图谱
+](https://www.infoq.cn/article/constructing-linkedin-knowledge-map)
+
+
+
+
+
+
+
+
 
 
 
