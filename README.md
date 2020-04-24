@@ -334,6 +334,7 @@ OAG（Open Academic Graph包含来自MAG的166,192,182篇论文和来自AMiner�
 - [华为开发者大会 HDC.Cloud 硬核技术解读：知识图谱构建流程及方法](https://www.infoq.cn/article/POTuVeAk0Lh0VmW9T9a0)
 - [腾讯云知识图谱技术与应用实践之路](https://www.infoq.cn/article/kYjJqkao020DcHDMJINI)
 - [知识图谱在小米的落地与挑战](https://www.infoq.cn/article/EWZDX9au7s6h7339DxiJ)
+- [构建行业知识图谱切勿操之过急，这里有三大前提条件](https://www.infoq.cn/article/PF9fjAKPf8MVGNK6aSpw)
 
 
 ### 2019
