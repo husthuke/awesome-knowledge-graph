@@ -266,8 +266,9 @@ OAG（Open Academic Graph包含来自MAG的166,192,182篇论文和来自AMiner�
 
 ## 会议交流及讲座
 ### AICon
-- [AICon 2017知识图谱技术实践](https://aicon2017.geekbang.org/training/1)
+- [AICon 2019知识图谱专题](https://aicon.infoq.cn/2019/beijing/track/658)
 - [AICon 2018知识图谱深度培训](https://aicon2018.geekbang.org/training/1315)
+- [AICon 2017知识图谱技术实践](https://aicon2017.geekbang.org/training/1)
 
 ### BDTC
 - [BDTC 2018 医疗知识图谱的构建和应用](./conference/医疗知识图谱的构建和应用.pdf)
@@ -325,6 +326,16 @@ OAG（Open Academic Graph包含来自MAG的166,192,182篇论文和来自AMiner�
 
 
 ## 推广技术文章
+
+### 2020
+
+- [基于知识图谱的语义理解技术及应用](https://www.infoq.cn/article/jp2QIvGFAp1vP6EHxcs5)
+- [阿里巴巴资深算法专家张伟：百科类知识图谱构建和应用已到深水区，行业和多模态知识图谱引关注](https://mp.weixin.qq.com/s?__biz=MzU1NDA4NjU2MA==&mid=2247501445&idx=2&sn=93350c260914201f791531832e33929a&chksm=fbea7f4acc9df65cbdf983597e31bc03240820a2365d5ce9db5edcc39a05cfababf234c3b5b7&scene=27#wechat_redirect)
+- [华为开发者大会 HDC.Cloud 硬核技术解读：知识图谱构建流程及方法](https://www.infoq.cn/article/POTuVeAk0Lh0VmW9T9a0)
+- [腾讯云知识图谱技术与应用实践之路](https://www.infoq.cn/article/kYjJqkao020DcHDMJINI)
+- [知识图谱在小米的落地与挑战](https://www.infoq.cn/article/EWZDX9au7s6h7339DxiJ)
+
+
 ### 2019
 - [大众点评搜索基于知识图谱的深度学习排序实践](https://www.infoq.cn/article/JZ_qdBDiMc1pHpBMDR2Q)
 - [知识图谱已成AI下一风口，但你知道它进展到哪了吗？](https://36kr.com/p/5170293)
