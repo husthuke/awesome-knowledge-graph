@@ -28,11 +28,11 @@
 
 
 - [Knowledge Graph Construction Techniques](./paper/知识图谱构建技术综述_刘峤.caj)
-- [Review on Knowledge Graph Techniques (2016)](./paper/知识图谱技术综述.pdf)[一句话概括：一篇经典的中文综述，适合入门。]
-- [Reviews on Knowledge Graph Research (2017)](./paper/知识图谱研究综述-李涓子.pdf)[一句话概括：清华大学李娟子老师的综述，十分经典，对知识图谱走入大众视野功不可没。]
-- [The Research Advances of Knowledge Graph (2017)](./paper/知识图谱研究进展_漆桂林.caj)[一句话概括：东南大学漆桂林老师的综述，也是2017年发表的，同样对知识图谱走入大众视野起到很大作用。]
+- [Review on Knowledge Graph Techniques (2016)](./paper/知识图谱技术综述.pdf)[一篇经典的中文综述，适合入门。]
+- [Reviews on Knowledge Graph Research (2017)](./paper/知识图谱研究综述-李涓子.pdf)[清华大学李娟子老师的综述，十分经典，对知识图谱走入大众视野功不可没。]
+- [The Research Advances of Knowledge Graph (2017)](./paper/知识图谱研究进展_漆桂林.caj)[东南大学漆桂林老师的综述，也是2017年发表的，同样对知识图谱走入大众视野起到很大作用。]
 - [A Survey on Knowledge Graphs: Representation, Acquisition and Applications (2020)](https://arxiv.org/pdf/2002.00388.pdf)
-- [Knowledge Graphs (2020)](https://arxiv.org/pdf/2003.02320.pdf)[一句话概括：2020年初的一篇作者众多、内容很全的综述，适合系统性的建立知识图谱的知识体系。]
+- [Knowledge Graphs (2020)](https://arxiv.org/pdf/2003.02320.pdf)[2020年初的一篇作者众多、内容很全的综述，适合系统性的建立知识图谱的知识体系。]
 
 
 #### KG-Augmented LMs(知识图谱增强语言模型) 
@@ -57,10 +57,10 @@ Pre-trained Language Representation (2020)](https://arxiv.org/pdf/1911.06136.pdf
 #### 对话系统
 知识图谱落地应用最为广泛的一个方向，研究人数也众多，个人觉得在工业界可发挥的空间比较大。
 
-- [Commonsense Knowledge Aware Conversation Generation with Graph Attention (IJCAI 2018)](https://www.ijcai.org/Proceedings/2018/0643.pdf)[一句话概括：先将原始文本中的实体转化为常识知识图谱中的子图片段，再将子图片段采用图注意力方式embedding之后的向量同时输入到encoder和decoder中进行融合。]
+- [Commonsense Knowledge Aware Conversation Generation with Graph Attention (IJCAI 2018)](https://www.ijcai.org/Proceedings/2018/0643.pdf)[先将原始文本中的实体转化为常识知识图谱中的子图片段，再将子图片段采用图注意力方式embedding之后的向量同时输入到encoder和decoder中进行融合。]
 - [Mem2Seq: Effectively Incorporating Knowledge Bases into End-to-End
-Task-Oriented Dialog Systems(2018)](https://arxiv.org/pdf/1804.08217.pdf)[一句话概括：提出一种Men2Seq的改进结构来配合copy 机制更好的处理任务型对话系统。]
-- [Mem2Seq: Augmenting End-to-End Dialogue Systems with Commonsense Knowledge(2018)](https://arxiv.org/pdf/1709.05453.pdf)[一句话概括：将问句x中的实体所对应的常识概念以及之间的关系作为额外信息a，将x与y，a与y分别使用LSTM打分之后的总和作为回答y的分值。]
+Task-Oriented Dialog Systems(2018)](https://arxiv.org/pdf/1804.08217.pdf)[提出一种Men2Seq的改进结构来配合copy 机制更好的处理任务型对话系统。]
+- [Mem2Seq: Augmenting End-to-End Dialogue Systems with Commonsense Knowledge(2018)](https://arxiv.org/pdf/1709.05453.pdf)[将问句x中的实体所对应的常识概念以及之间的关系作为额外信息a，将x与y，a与y分别使用LSTM打分之后的总和作为回答y的分值。]
 
 #### 知识库问答-KBQA
 - [Towards Scalable Multi-Domain Conversational Agents: The Schema-Guided Dialogue Dataset](https://arxiv.org/pdf/1909.05855.pdf)
@@ -102,7 +102,7 @@ Knowledge Base Question Answering](https://arxiv.org/pdf/1912.07491.pdf)
 - [A Survey on Entity Alignment of Knowledge Base](./paper/知识库实体对齐技术综述.pdf)
 - [Knowledge Graph Alignment Network with Gated Multi-hop Neighborhood Aggregation](https://arxiv.org/pdf/1911.08936.pdf)
 - [Coordinated Reasoning for Cross-Lingual Knowledge Graph Alignment](https://arxiv.org/pdf/2001.08728.pdf)
-- [End-to-End Neural Entity Linking (2018)](./paper/End-to-End Neural Entity Linking.pdf) [一句话概括：将mention的字、词向量拼接之后过bilstm得到mention embedding，将候选mention的头尾词向量和基于attention的soft head拼接得到候选mention embedding，两个embedding一起通过FFNN打分，从而实现端到端的实体链接。]
+- [End-to-End Neural Entity Linking (2018)](./paper/End-to-End Neural Entity Linking.pdf) [将mention的字、词向量拼接之后过bilstm得到mention embedding，将候选mention的头尾词向量和基于attention的soft head拼接得到候选mention embedding，两个embedding一起通过FFNN打分，从而实现端到端的实体链接。]
 
 
 
