@@ -102,7 +102,7 @@ Knowledge Base Question Answering](https://arxiv.org/pdf/1912.07491.pdf)
 - [A Survey on Entity Alignment of Knowledge Base](./paper/知识库实体对齐技术综述.pdf)
 - [Knowledge Graph Alignment Network with Gated Multi-hop Neighborhood Aggregation](https://arxiv.org/pdf/1911.08936.pdf)
 - [Coordinated Reasoning for Cross-Lingual Knowledge Graph Alignment](https://arxiv.org/pdf/2001.08728.pdf)
-- [End-to-End Neural Entity Linking (2018)](./paper/End-to-End Neural Entity Linking.pdf) [将mention的字、词向量拼接之后过bilstm得到mention embedding，将候选mention的头尾词向量和基于attention的soft head拼接得到候选mention embedding，两个embedding一起通过FFNN打分，从而实现端到端的实体链接。]
+- [End-to-End Neural Entity Linking (2018)](https://arxiv.org/abs/1808.07699) [将mention的字、词向量拼接之后过bilstm得到mention embedding，将候选mention的头尾词向量和基于attention的soft head拼接得到候选mention embedding，两个embedding一起通过FFNN打分，从而实现端到端的实体链接。]
 
 
 
