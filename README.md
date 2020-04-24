@@ -21,7 +21,7 @@
 ### 整体概念架构
 随着知识图谱的发展，与之相关的概念也越来越多，在阅读论文时先准确的把握该论文所要解决问题处于的层级或者位置对于更好的理解论文也比较有帮助，在此对知识图谱的概念进行了总结整理，后面的论文分类也按照该整体架构概念图从顶向下，从整体到细节的方式组织。
 
-![avatar](./image/framework.png)
+![image](https://github.com/husthuke/awesome-knowledge-graph/blob/master/image/framework.png)
 
 ### 综述综合
 #### 大综述
