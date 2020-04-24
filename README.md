@@ -252,7 +252,7 @@ OAG（Open Academic Graph包含来自MAG的166,192,182篇论文和来自AMiner�
 - [“达观杯”文本智能信息抽取挑战赛](https://www.biendata.com/competition/datagrand/)
 - [CCKS 2019 公众公司公告信息抽取](https://www.biendata.com/competition/ccks_2019_5/)
 - [CCKS 2019 医疗命名实体识别](https://www.biendata.com/competition/ccks_2019_1/)
-- [CCKS 2019 医疗命名实体识别](https://www.biendata.com/competition/ccks_2019_4/)
+- [CCKS 2019 面向金融领域的事件主体抽取](https://www.biendata.com/competition/ccks_2019_4/)
 - [CCKS 2019 人物关系抽取](https://biendata.com/competition/ccks_2019_ipre/)
 - [CCKS 2019 中文短文本的实体链指](https://biendata.com/competition/ccks_2019_el/)
 - [CCIR 2019 基于电子病历的数据查询类问答](https://www.biendata.com/competition/ccir2019/)
