@@ -64,9 +64,12 @@ Pre-trained Language Representation (2020)](https://arxiv.org/pdf/1911.06136.pdf
 #### 常识图谱(Commonsense)
 目前人工智能在很多方面表现的比较智障的原因，很多学者仍为是由于AI缺乏基本常识知识的原因，因此，从感知智能到认知智能常识知识起着很重要的作用，而常识图谱作为常识知识的一个重要表示手段也越来越受到重视。
 
+
+- [KILT: a Benchmark for Knowledge Intensive Language Tasks(2020)](https://arxiv.org/pdf/2009.02252v1.pdf)[facebook 针对知识集中型的语言任务设计的baenchmark，其中包括设计常识的任务。]
+- [TransOMCS: From Linguistic Graphs to Commonsense Knowledge(ICJAI 2020)](https://arxiv.org/pdf/2005.00206.pdf)[基于语言图谱构建常识知识，采用ConceptNet中子集作为常识种子，从语言图谱中挖掘满足种子(h,r,t)的模式，然后再基于这些模式从语言图谱中找常识，同时为了避免错误模式带来的影响，引入一个打分机制筛选模式，并且对找出来的常识进行可信度排序。]
 - [ATOMIC: An Atlas of Machine Commonsense for If-Then Reasoning (AAAI 2019)](https://arxiv.org/abs/1811.00146)[将常识信息抽象成一系列if then表示的框架，并基于词框架设计众包任务获得数据集，通过encoder(ELMo)+decoder结构的model进行训练，最后采用BLEU score来评价机器在指定指令下的推断输出。]
 - [COMET: Commonsense Transformers for Automatic Knowledge Graph Construction (ACL 2019)](https://arxiv.org/abs/1906.05317)[结合预训练模型提出了一种常识知识图谱构建框架，并在ATOMIC和ConceptNet常识知识图谱上进行实验，同时也验证了模型参数采用预训练之后的参数比随机初始化效果明显要好。]
-- [TransOMCS: From Linguistic Graphs to Commonsense Knowledge(ICJAI 2020)](https://arxiv.org/pdf/2005.00206.pdf)[基于语言图谱构建常识知识，采用ConceptNet中子集作为常识种子，从语言图谱中挖掘满足种子(h,r,t)的模式，然后再基于这些模式从语言图谱中找常识，同时为了避免错误模式带来的影响，引入一个打分机制筛选模式，并且对找出来的常识进行可信度排序。]
+
 
 
 
@@ -86,11 +89,15 @@ Task-Oriented Dialog Systems(2018)](https://arxiv.org/pdf/1804.08217.pdf)[提出
 Knowledge Base Question Answering](https://arxiv.org/pdf/1912.07491.pdf)
 - [Graph-Based Reasoning over Heterogeneous External Knowledge for Commonsense Question Answering](https://arxiv.org/pdf/1909.05311.pdf)
 
+### 推荐系统
+- [Multi-modal Knowledge Graphs for Recommender Systems(CIKM 2020)](https://zheng-kai.com/paper/cikm_2020_sun.pdf)[将多模态信息引入知识图谱推荐，整体结构上包括多模态知识图谱graph embedding和recommendation两部分，其中graph embedding包括entity encoder和attention，用于综合表示节点以及其周围节点信息。]
+
 ### 知识计算
 #### Representation（知识表示）
 知识应用的基础，目前分布式表示或者embedding大有一统江湖的意思，各种花式embedding眼花缭乱。
 
 - [Knowledge Representation Learning: A Review](./paper/知识表示学习研究进展_刘知远.caj)
+- [Interstellar: Searching Recurrent Architecture for Knowledge Graph Embedding(NeurIPS 2020)](https://arxiv.org/pdf/1911.07132.pdf)[基于由三元组组成的关系路径（relational path）提出 Interstellar 模型，通过搜索一种递归神经网络，来处理关系路径中的短链、长链信息,达到根据不同任务，有针对性地对关系路径进行建模的目的。]
 - [Holographic embeddings of knowledge graphs](https://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/viewFile/12484/11828)
 - [Context-dependent knowledge graph embedding. EMNLP 2015. Luo, Yuanfei and Wang, Quan and Wang, Bin and Guo, Li.](http://www.aclweb.org/anthology/D15-1191)
 - [GAKE: graph aware knowledge embedding. COLING 2016. Feng, Jun and Huang, Minlie and Yang, Yang and Zhu, Xiaoyan.](http://www.aclweb.org/anthology/C16-1062)
@@ -112,6 +119,7 @@ Knowledge Base Question Answering](https://arxiv.org/pdf/1912.07491.pdf)
 - [Differentiable Learning of Logical Rules for Knowledge Base Reasoning.(2017)](https://arxiv.org/pdf/1702.08367.pdf)[]
 - [Query2box: Reasoning over Knowledge Graphs in Vector Space Using Box Embeddings(ICLR 2020)](https://openreview.net/pdf?id=BJgr4kSFDS)[将问题映射为向量空间中的box，答案实体为向量空间中的向量，回答问题的过程可以建模成Projection、 Intersection和Union，最终获得问题的box，通过定义好的query和entity距离计算方法计算距离，小于阈值则为答案集合。]
 - [Conversational Neuro-Symbolic Commonsense Reasoning(2020)]()
+- [Neural-Symbolic Reasoning on Knowledge Graphs(2020)](https://arxiv.org/pdf/2010.05446.pdf)[系统的整理了知识图谱推理中的Symbolic reasoning以及Neural reasoning的方法，并介绍了其不同的优劣势，对KGC和KBQA问题在统一推力网络中进行了总结。]
 
 #### KG Completion(图谱补全)
 - [Learning Sequence Encoders for Temporal Knowledge Graph Completion](./paper/Learning_Sequence_Encoders_for_Temporal_Knowledge_Graph_Completion.pdf)
@@ -144,16 +152,26 @@ with Knowledge Enrichment (EMNLP 2015)](http://www.emnlp2015.org/proceedings/EMN
 - [Knowledge Graph Alignment Network with Gated Multi-hop Neighborhood Aggregation](https://arxiv.org/pdf/1911.08936.pdf)
 - [Coordinated Reasoning for Cross-Lingual Knowledge Graph Alignment](https://arxiv.org/pdf/2001.08728.pdf)
 - [End-to-End Neural Entity Linking (2018)](https://arxiv.org/abs/1808.07699) [将mention的字、词向量拼接之后过bilstm得到mention embedding，将候选mention的头尾词向量和基于attention的soft head拼接得到候选mention embedding，两个embedding一起通过FFNN打分，从而实现端到端的实体链接。]
+- [Zero-shot Entity Linking with Efficient Long Range Sequence Modeling (2020)](https://arxiv.org/pdf/2010.06065.pdf)
+
+#### Coreference Resolution(指代消解)
+- [Using Type Information to Improve Entity Coreference Resolution](https://arxiv.org/pdf/2010.05738.pdf)
+
+
 
 ### 知识建模
 
 #### Taxonomy(本体构建)
+- [AutoKnow: Self-Driving Knowledge Collection for Products of Thousands of Types(KDD 2020)](https://dl.acm.org/doi/pdf/10.1145/3394486.3403323)[结合商品领域特点将传统SPO三元组结构的建模方式进行了修改，并提出一种自动进行实体收集的架构]
 - [A Short Survey on Taxonomy Learning from Text Corpora: Issues, Resources and Recent Advances (ACL2017)](https://www.aclweb.org/anthology/D17-1123)[以两段式流程框架介绍了基于语料构建本体的各种方法，两段式流程框架是指is-a关系的抽取和基于is-a关系的本体构建。]
+
 
 ### 其他扩展
 #### Tracing(知识追踪)
 本类别并不是传统知识图谱中的任务，而是与教育领域结合的广义上的知识图谱任务。
 
+- [Context-Aware Attentive Knowledge Tracing(KDD 2020)](https://dl.acm.org/doi/pdf/10.1145/3394486.3403282)[]
+- [Knowledge Query Network for Knowledge Tracing()](https://arxiv.org/pdf/1908.02146.pdf)[将学生外在表现建模成knowledge vetor和skill vetor的点积]
 - [Knowledge tracing- Modeling the acquisition of procedural knowledge](./paper/Knowledge_tracing-Modeling_the_acquisition_of_procedural_knowledge.pdf)
 - [Individualized Bayesian Knowledge Tracing Models](./paper/Individualized_Bayesian_Knowledge_Tracing_Models.pdf)
 - [Deep Knowledge Tracing](./paper/Deep_Knowledge_Tracing.pdf)
