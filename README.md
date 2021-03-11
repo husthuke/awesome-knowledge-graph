@@ -264,8 +264,12 @@ OAG（Open Academic Graph包含来自MAG的166,192,182篇论文和来自AMiner�
 
 
 ## 白皮书及报告
-- [CCKS2018-知识图谱发展报告](./report/CCKS2018-知识图谱发展报告.pdf)
+
+- [百度知识中台白皮书(2020版)](./report/百度知识中台白皮书(2020版).pdf)
+- [面向人工智能新基建的知识图谱行业白皮书(艾瑞咨询2020版)](./report/面向人工智能新基建的知识图谱行业白皮书(艾瑞咨询2020版).pdf)
 - [知识图谱标准化白皮书(2019版)](./report/知识图谱标准化白皮书(2019版).pdf)
+- [CCKS2018-知识图谱发展报告](./report/CCKS2018-知识图谱发展报告.pdf)
+
 
 
 
@@ -356,11 +360,11 @@ OAG（Open Academic Graph包含来自MAG的166,192,182篇论文和来自AMiner�
 
 ### 金融领域知识图谱
 
-#### 利用网络上公开的数据构建一个小型的证券知识图谱/知识库
-- https://github.com/lemonhu/stock-knowledge-graph.git
+- [小型金融知识图谱构流程示范](https://github.com/jm199504/Financial-Knowledge-Graphs)
 
-#### 上市公司高管图谱
-- https://github.com/Shuang0420/knowledge_graph_demo
+- [利用网络上公开的数据构建一个小型的证券知识图谱知识库](https://github.com/lemonhu/stock-knowledge-graph)
+
+- [上市公司高管图谱](https://github.com/Shuang0420/knowledge_graph_demo)
 
 ### 医疗领域知识图谱
 
